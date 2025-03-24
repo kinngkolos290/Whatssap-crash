@@ -4,3 +4,4 @@ pkg install python
 pkg install git
 git clone https://github.com/hacker2108-maker/Whatssap-crash.git
 cd Whatssap-crash
+python Whatssap-crash.py
