@@ -2,6 +2,6 @@ apt update
 apt upgrade 
 pkg install python 
 pkg install git
-git clone https://github.com/hacker2108-maker/Whatssap-crash.git
+git clone https://github.com/kinngkolos290/Whatssap-crash.git
 cd Whatssap-crash
 python Whatssap-crash.py
