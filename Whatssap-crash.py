@@ -20,11 +20,11 @@ logo = f"""
            
 
 {G}=====================================================
-{Y}	[+]Tool Name: Whatsapp-Crash-V1
-{Y}	[+]Created by Hacker2108
-{Y}	[+]Team Allah
-{Y}	[+]Crash Txt by Hacker2108
-{Y}	[+]Contact me on whatsapp +17864445476
+{Y}	[+]Tool Name: Destructor crash gen I
+{Y}	[+]Created by Supreme D.kolosmy
+{Y}	[+]Team bc-hacktoolkits
+{Y}	[+]Crash Txt by Destructor
+{Y}	[+]Contact me on whatsapp +50938025349
 {Y}	[+]Follow me on github
 {G}=====================================================
 """
